@@ -10,9 +10,9 @@
 
 # ---------- 左侧栏 Sidebar ----------
 name: "Your Name"
-tagline: "PhD Candidate in Your Field"
-department: "Department of Your Field"
-institution: "University Name"
+tagline: "PhD in Statistics"
+department: "Department of Mathematics and Statistics"
+institution: "University of Sydney"
 
 # 照片：把你的照片命名为 photo.jpg，上传到 files 文件夹。这一行不用改
 photo: "/files/photo.jpg"
@@ -21,11 +21,11 @@ photo: "/files/photo.jpg"
 # ---------- 左侧栏链接 Links ----------
 # 没有的就改成空引号 ""，那一项会自动隐藏
 links:
-  email: "you@university.edu"
-  google_scholar: "https://scholar.google.com/"   # 换成你的 Scholar 主页链接
-  orcid: "https://orcid.org/"                     # 换成你的 ORCID 链接，例 https://orcid.org/0000-0000-0000-0000
-  github: "https://github.com/"                   # 换成 https://github.com/你的用户名
-  linkedin: ""                                    # 有的话填上
+  email: "niya.chen@sydney.edu.au"
+  google_scholar: "https://scholar.google.com/citations?user=eh3ZPFwAAAAJ&hl=en&oi=ao"   # 换成你的 Scholar 主页链接
+  orcid: "https://orcid.org/0009-0001-5893-0695"                     # 换成你的 ORCID 链接，例 https://orcid.org/0000-0000-0000-0000
+  github: "https://github.com/nynynya"                   # 换成 https://github.com/你的用户名
+  linkedin: "https://www.linkedin.com/in/nia-c-807249166/"                                    # 有的话填上
   cv: "/files/cv.pdf"                             # 把你的简历命名为 cv.pdf，上传到 files 文件夹
 
 
