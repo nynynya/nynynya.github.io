@@ -24,20 +24,18 @@ My research focuses on [your broad area]. A complete list is also available on [
 
 ## Working Papers
 
-1. **Your Name** and Coauthor One (2026). Title of your working paper that may run onto a second line. *Under review.* [PDF](https://example.com) [arXiv](https://arxiv.org/)
-2. **Your Name**, Coauthor Two, and Coauthor Three (2026). Title of another manuscript in progress. *Working paper.*
-{: .pubs}
+1. **Chen, N.**, Chan, J., & Nghiem, L. (2025). Expectile and value at risk modeling for cryptocurrency using Bayesian approach. *Under review.* 
+2. **Chen, N. P.**, Chan, J. S. K., & Nghiem, L. H. (2026). Two-stage volatility-quantile models using deep learning density networks
+with application to cryptocurrencies. *Under review.* 
+3. Chen, M., **Chen, N.**, & Chan, J. (2026). Extending quantile and expectile regression with mixture density networks for
+cryptocurrency modelling. *Under review.* 
+4. Chan, B. S. F., Cheung, K. F., **Chen, N.**, & Chan, J. (2026). Time-Occupation Information for Realized Volatility Forecasting. *Under review.* 
 
 ## Journal Articles
 
-1. **Your Name**, Coauthor One, and Coauthor Two (2025). Title of a published journal article. *Journal Name*, 12(3), 45–67. [Paper](https://doi.org/) [Code](https://github.com/)
-2. Coauthor One†, **Your Name**†, and Coauthor Three (2024). Title of another published article. *Another Journal Name*. [Paper](https://doi.org/) [arXiv](https://arxiv.org/)
-{: .pubs}
+1. **Chen, N. P.**, Chan, J. S. K., & Nghiem, L. H. (2026). Neural-statistical hybrid models for value at risk and expectile forecast with
+applications. Risk Management, 28, Article 51. (doi:10.1057/s41283-026-00227-6)
 
-## Conference Papers
-
-1. **Your Name** and Coauthor One (2024). Title of a conference paper. In *Proceedings of the Conference Name*. [Paper](https://doi.org/) [Slides](https://example.com)
-{: .pubs}
 
 ## Talks
 
