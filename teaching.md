@@ -14,7 +14,7 @@ permalink: /teaching/
 
 ### Instructor
 
-- **ABC 101** · Introduction to Your Subject · Fall 2025, Spring 2026
+- **Stat5003** · Computational Statistical Methods · Semester 2 2026
 
 ### Teaching Assistant
 
